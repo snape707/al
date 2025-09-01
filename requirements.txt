@@ -1,0 +1,10 @@
+# Core ML + app
+tensorflow>=2.12
+numpy
+pandas
+scikit-learn
+pillow
+opencv-python
+matplotlib
+streamlit
+tqdm
